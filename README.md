@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Dev, Discord bot dev, and various other stuff 
 - 🌱 I’m currently learning Frontend Development
 - ⏲ I'm planning to learn Backend Development
-- 💞️ I’m looking to collaborate on lichess, p5.js, and many other open-source projects I loce
+- 💞️ I’m looking to collaborate on lichess, p5.js, and many other open-source projects I love
 - 📫 How to reach me - don't.
 
 <!---
