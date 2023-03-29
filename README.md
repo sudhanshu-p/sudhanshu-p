@@ -11,6 +11,3 @@ I'm a self taught Full Stack developer<br>I love working with meta frameworks (S
 ![](https://github-readme-stats.vercel.app/api?username=sudhanshu-p&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-p&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-p&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudhanshu-p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
